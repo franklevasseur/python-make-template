@@ -1,0 +1,9 @@
+# Dev Dependencies
+isort==5.10.1
+autopep8==1.6.0
+pycodestyle==2.8.0
+pyright==1.1.267
+pytest==7.1.1
+
+# Dependencies
+rich==12.6.0

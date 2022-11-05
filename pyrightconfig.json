@@ -1,0 +1,10 @@
+{
+  "include": ["src"],
+  "exclude": ["**/__pycache__"],
+  "ignore": [],
+  "stubPath": "",
+  "venv": ".venv",
+  "pythonVersion": "3.10",
+  "pythonPlatform": "All",
+  "typeCheckingMode": "basic",
+}
