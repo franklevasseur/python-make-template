@@ -7,4 +7,5 @@
   "pythonVersion": "3.10",
   "pythonPlatform": "All",
   "typeCheckingMode": "basic",
+  "reportIncompatibleMethodOverride": "error"
 }
